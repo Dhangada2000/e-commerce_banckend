@@ -1,0 +1,6 @@
+in\krloyar\ecommerce\dao\ProductRepository.class
+in\krloyar\ecommerce\configs\MyDataRestConfig.class
+in\krloyar\ecommerce\dao\ProductCategoryRepository.class
+in\krloyar\ecommerce\entity\Product.class
+in\krloyar\ecommerce\EcommerceApplication.class
+in\krloyar\ecommerce\entity\ProductCategory.class
